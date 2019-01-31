@@ -1,2 +1,4 @@
 Practiching of Git.
-I don't understand this.
+Pretty hard to learn this as a beginner.
+- git add
+- git commit
