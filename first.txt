@@ -4,3 +4,4 @@ Pretty hard to learn this as a beginner.
 - git commit
 - git remove
 - git status
+- git diff
