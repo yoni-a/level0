@@ -3,3 +3,4 @@ Pretty hard to learn this as a beginner.
 - git add
 - git commit
 - git remove
+- git status
