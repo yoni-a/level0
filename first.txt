@@ -2,3 +2,4 @@ Practiching of Git.
 Pretty hard to learn this as a beginner.
 - git add
 - git commit
+- git remove
